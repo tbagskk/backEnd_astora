@@ -1,0 +1,32 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local environment files
+.env
+.env.*.local
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+/dist/
+/build/
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Testing
+/coverage/
+
+# Next.js or other frameworks (if applicable)
+/.next/
+/out/
+
+# Operating system files
+.DS_Store
+Thumbs.db
